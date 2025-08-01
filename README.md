@@ -15,8 +15,7 @@ A real-time financial research dashboard built using **Python & Streamlit**, ins
 ---
 
 ## 🚀 Demo
-
-**Coming soon**: Hosted live on Streamlit Cloud *(optional deployment help available)*
+Hosted live on Streamlit Cloud : https://finsight360-dashboard.streamlit.app/
 
 ---
 
