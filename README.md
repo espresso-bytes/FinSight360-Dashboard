@@ -1,6 +1,6 @@
 # 🧠 FinSight360: Company & Market Research Dashboard
 
-A real-time financial research dashboard built using **Python & Streamlit**, inspired by the work of analysts at J.P. Morgan's Centralized Research Group (CRG).
+A real-time financial research dashboard built using **Python & Streamlit**, inspired by the work of analysts.
 
 ---
 
@@ -10,7 +10,7 @@ A real-time financial research dashboard built using **Python & Streamlit**, ins
 - 📈 6-month Stock Price Trend (interactive line chart)
 - 🏆 Peer Comparison Table (P/E, EPS, Market Cap)
 - 📰 Latest Financial News fetched via NewsData.io API
-- 🎨 Clean UI with a custom navy-yellow theme for a JPM-style pitchbook experience
+- 🎨 Clean UI with a custom blue theme for a pitchbook experience
 
 ---
 
@@ -47,7 +47,7 @@ A real-time financial research dashboard built using **Python & Streamlit**, ins
 
 This project simulates real-world research and analytics work done in **investment banking pitchbooks**, especially useful for:
 
-- Students applying to CRG roles at J.P. Morgan
+- Students interested in this field
 - Analysts practicing financial data analysis
 - Anyone learning dashboarding + real market data
 
